@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgyNWZmZmZiNWUxOGY0MjdjNTg1NjgzZjMwOWExMGU1M2FjMTcwNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TCOnqmevnGbxm/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -59,7 +59,7 @@
 <a href="https://github.com/rezafatur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/muhammad-reza-faturrahman-430469233" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-reza-faturrahman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/rezaaafatur" target="_blank">
