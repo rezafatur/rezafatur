@@ -4,8 +4,8 @@
 
 ### <div align="center">Hi 👋, I am Muhammad Reza Faturrahman.</div>
 
-- 🎓 I'm currently studying on BINUS University as a Computer Science Student.
-- 💻 I’m currently learning Web and Mobile Frontend or Developer.
+- 🎓 I am currently studying on BINUS University as a Computer Science Student.
+- 💻 I am currently learning Web and Mobile Frontend or Developer.
 
 ## Connect with me  
 <div align="center">
