@@ -7,22 +7,47 @@
 - 🎓 I am currently studying on BINUS University as a Computer Science Student.
 - 💻 I am currently learning Mobile Developer.
 
-## Connect with me
+## Connect with Me
 <div align="center">
+  <!-- Portfolio Website -->
   <a href="https://rezafatur.github.io" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=github style="margin-bottom: 5px;" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muhammad-reza-faturrahman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>
+  <!-- Instagram -->
   <a href="https://instagram.com/rezaaafatur" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
   </a>
+  <!-- YouTube -->
   <a href="https://www.youtube.com/channel/UCQeiu1ysFySHsSsDhmOhLlQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;">
   </a>
+  <!-- Spotify -->
   <a href="https://open.spotify.com/user/ctm5y2y7ovpdn0ec4vrgn2374?si=799eeb02bff94c8c" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="youtube" style="margin-bottom: 5px;">
+  </a>
+</div>
+
+## My Skills in a Nutshell
+<div align="center">
+  <!-- Languages -->
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=kotlin,dart,html,css,js,java,php,python,c,csharp,go,json,mysql&includeNames=true" align="center" style="width: 50%">
+  </a>
+  <!-- Frameworks -->
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=flutter,react,bootstrap,tailwind,laravel&includeNames=true" align="center" style="width: 50%">
+  </a>
+  <!-- Tools -->
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,firebase,wordpress,vercel,apache,gradle,prettier&includeNames=true" align="center" style="width: 50%">
+  </a>
+  <!-- Software & IDE's -->
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&includeNames=true" align="center" style="width: 50%">
   </a>
 </div>
 
