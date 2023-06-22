@@ -6,6 +6,8 @@
 
 - 🎓 I am currently studying on BINUS University as a Computer Science Student.
 - 💻 I am currently learning Mobile Developer.
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://rezafatur.github.io).
+- 📫 How to reach me **faturrahman7id@gmail.com**.
 
 <details>
   <summary>
