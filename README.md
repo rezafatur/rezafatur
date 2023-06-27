@@ -88,12 +88,3 @@
     </a>
   </div>
 </details>
-
-<details>
-  <summary>
-    <h2>🤫 For Your Information</h2>
-  </summary>
-  <div align="center">
-    <img src="https://64.media.tumblr.com/73610dc9a5acc9713ea1423813ede546/5acaa2a317572695-cf/s400x600/88ca68ae39a7d0362fbc8298d0109b8c681e887e.gifv" align="center" style="width: 50%" />
-  </div>
-</details>
