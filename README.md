@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://rezafatur.github.io).
 - 📫 How to reach me **faturrahman7id@gmail.com**.
 
+<!-- CONNECT WITH ME -->
 <details>
   <summary>
     <h2>🤝 Connect with Me</h2>
@@ -37,6 +38,8 @@
   </div>
 </details>
 
+
+<!-- MY SKILLS -->
 <details>
   <summary>
     <h2>👨‍💻 My Skills in a Nutshell</h2>
@@ -61,6 +64,7 @@
   </div>
 </details>
 
+<!-- GITHUB STATS -->
 <details>
   <summary>
     <h2>😼 Github Stats</h2>
@@ -78,13 +82,14 @@
   </div>
 </details>
 
+<!-- SPOTIFY LISTENING -->
 <details>
   <summary>
     <h2>🎧 Spotify Listening</h2>
   </summary>
   <div align="center">
-    <a href="https://www.data-card-for-spotify.com/card?user_id=ctm5y2y7ovpdn0ec4vrgn2374">
-      <img src="https://www.data-card-for-spotify.com/api/card?user_id=ctm5y2y7ovpdn0ec4vrgn2374&hide_title=true" alt="Data Card for Spotify">
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ctm5y2y7ovpdn0ec4vrgn2374">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ctm5y2y7ovpdn0ec4vrgn2374&hide_title=1" alt="Data Card for Spotify">
     </a>
   </div>
 </details>
