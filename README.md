@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgyNWZmZmZiNWUxOGY0MjdjNTg1NjgzZjMwOWExMGU1M2FjMTcwNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TCOnqmevnGbxm/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://64.media.tumblr.com/53a1776789560e511497ea4f18ce3fa8/tumblr_ozkjjpLUf81rpjzdro4_500.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi 👋, I am Muhammad Reza Faturrahman.</div>
 
 - 🎓 I am currently studying on BINUS University as a Computer Science Student.
-- 💻 I am currently learning Mobile Developer.
+- 💻 I am currently learning Mobile Development and Quality Assurance.
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://rezafatur.github.io).
 - 📫 How to reach me **faturrahman7id@gmail.com**.
 
