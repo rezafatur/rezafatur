@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/53a1776789560e511497ea4f18ce3fa8/tumblr_ozkjjpLUf81rpjzdro4_500.gif" align="center" style="width: 100%" />
+  <img src="https://64.media.tumblr.com/75e861054fea3e80e3ed926f383e2c7a/7639308eeeb020be-b8/s500x750/b8cd4aeb6625f52534cf24ea3fd67ee17b1552db.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi 👋, I am Muhammad Reza Faturrahman.</div>
