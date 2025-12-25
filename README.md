@@ -8,7 +8,7 @@
 
   <p>
     🎓 Computer Science Graduate · BINUS University <br/>
-    👨‍💻 Frontend / Fullstack Developer
+    👨‍💻 Full Stack Developer / Mobile Developer
   </p>
 
   <!-- Badges -->
