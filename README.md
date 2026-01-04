@@ -4,7 +4,7 @@
     width="280"
   />
 
-  <h3>Hi, I am Muhammad Reza Faturrahman 👋</h3>
+  <h3>Hi, I am Muhammad Reza Faturrahman 👋😊</h3>
 
   <p>
     🎓 Computer Science Graduate · BINUS University <br/>
